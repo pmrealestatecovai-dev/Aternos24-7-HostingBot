@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": mastermc28.aternos.me;
+    "ip":mastermc28.aternos.me: 
     "port":26524
     "version": "",
     "try-creative": false
